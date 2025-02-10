@@ -7,7 +7,7 @@ This project focuses on classifying MRI brain scans to detect Alzheimer's diseas
 The dataset consists of MRI scans labeled for different stages of Alzheimer's disease.
 
 ## Models & Performance
-We trained and evaluated two pre-trained deep learning models, **ResNet50** and **InceptionV3**, for Alzheimer's classification. The results are as follows:
+We trained and evaluated two pre-trained deep learning models, **ResNet50**, **InceptionV3** and **MobileNetV2**, for Alzheimer's classification. The results are as follows:
 
 | Model       | Accuracy (%) |
 |------------|-------------|
